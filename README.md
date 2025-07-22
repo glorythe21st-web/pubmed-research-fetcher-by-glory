@@ -1,4 +1,4 @@
-\# PubMed Research Fetcher 🧪
+\ PubMed Research Fetcher 🧪
 
 
 
@@ -6,7 +6,7 @@ This Python tool fetches PubMed articles by query and exports them (with titles,
 
 
 
-\## Features
+\ Features
 
 \- PubMed search by keyword
 
@@ -18,7 +18,7 @@ This Python tool fetches PubMed articles by query and exports them (with titles,
 
 
 
-\## Usage
+\ Usage
 
 
 
