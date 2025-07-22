@@ -1,4 +1,4 @@
-\ PubMed Research Fetcher 🧪
+PubMed Research Fetcher 🧪
 
 
 
@@ -6,19 +6,19 @@ This Python tool fetches PubMed articles by query and exports them (with titles,
 
 
 
-\ Features
+Features
 
-\- PubMed search by keyword
+- PubMed search by keyword
 
-\- Optional date filtering
+- Optional date filtering
 
-\- Extracts and saves DOI
+- Extracts and saves DOI
 
-\- Outputs CSV for citations
+- Outputs CSV for citations
 
 
 
-\ Usage
+Usage
 
 
 
